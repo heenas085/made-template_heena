@@ -24,8 +24,9 @@ By merging educational and job data will help us to shed some light on education
 <!-- Describe each datasources you plan to use in a section. Use the prefic "DatasourceX" where X is the id of the datasource. -->
 
 ### Datasource1: ExampleSource
-* Metadata URL: https://mobilithek.info/offers/-6901989592576801458
-* Data URL: https:
+* Metadata URL: https://datacatalog.worldbank.org/search/dataset/0038543
+                https://datacatalog.worldbank.org/search/dataset/0038480
+* Data URL: 
 * Data Type: CSV
 
 Short description of the DataSource.
