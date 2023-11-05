@@ -26,16 +26,13 @@ By merging educational and job data will help us to shed some light on education
 ### Datasource1: ExampleSource
 * Metadata URL: https://datacatalog.worldbank.org/search/dataset/0038543
                 https://datacatalog.worldbank.org/search/dataset/0038480
-* Data URL: 
-* Data Type: CSV
+* Data URL:     https://github.com/heenas085/made-template_heena/tree/main/data
+* Data Type:    CSV
 
 Short description of the DataSource.
 
 ## Work Packages
 
-<!-- List of work packages ordered sequentially, each pointing to an issue with more details. -->
-
-1. Example Issue [#1][i1]
-2. ...
+1. Issue [#1][i1]
 
 [i1]: https://github.com/jvalue/made-template/issues/1
